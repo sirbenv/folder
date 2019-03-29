@@ -1798,6 +1798,19 @@ body {
     width: 100% !important;
   }
 }
+.cid-rm3PmckEfQ {
+  background: #cccccc;
+  padding-top: 60px;
+  padding-bottom: 0px;
+}
+.cid-rm3PmckEfQ .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rm3PmckEfQ .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rl0O5oUJhr {
   padding-top: 0px;
   padding-bottom: 0px;
