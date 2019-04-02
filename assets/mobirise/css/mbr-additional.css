@@ -1798,6 +1798,27 @@ body {
     width: 100% !important;
   }
 }
+.cid-rmsdA3CZRY {
+  background: #cccccc;
+  padding-top: 30px;
+  padding-bottom: 0px;
+}
+.cid-rmsdA3CZRY .image-block {
+  margin: auto;
+}
+.cid-rmsdA3CZRY figcaption {
+  position: relative;
+}
+.cid-rmsdA3CZRY figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rmsdA3CZRY .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rm5tW8ioTR {
   background: #cccccc;
   padding-top: 30px;
@@ -2371,130 +2392,10 @@ body {
 .cid-rkcs1GACjj .dropdown-item:hover {
   color: #55b4d4 !important;
 }
-.cid-rkcvZ4ZFfD {
-  padding-top: 120px;
-  padding-bottom: 30px;
-  background-color: #000000;
-}
-.cid-rkcvZ4ZFfD .line {
-  background-color: #000000;
-  color: #000000;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-rkcvZ4ZFfD .section-text {
-  padding: 2rem 0;
-}
-.cid-rkcvZ4ZFfD .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-rkcvZ4ZFfD .inner-container {
-    width: 100% !important;
-  }
-}
-.cid-rkcnPZyTDX {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/drips-2000x1125.jpg");
-}
-.cid-rkcnPZyTDX .mbr-section-subtitle {
-  color: #b1a374;
-  font-weight: 300;
-  text-align: left;
-}
-.cid-rkcnPZyTDX .media-container-row {
-  word-wrap: break-word;
-  word-break: break-word;
-  align-items: stretch;
-  -webkit-align-items: stretch;
-}
-.cid-rkcnPZyTDX .card_cont {
-  -o-transition: all .5s;
-  -ms-transition: all .5s;
-  -moz-transition: all .5s;
-  -webkit-transition: all .5s;
-  transition: all .5s;
-  -o-backface-visibility: hidden;
-  -ms-backface-visibility: hidden;
-  -moz-backface-visibility: hidden;
-  -webkit-backface-visibility: hidden;
-  backface-visibility: hidden;
-  position: absolute;
-  top: 0px;
-  left: 0px;
-  text-align: center;
-  background-color: #eee;
-}
-.cid-rkcnPZyTDX .card-front {
-  z-index: 2;
-  padding: 0;
-  width: 100%;
-  height: 100%;
-  overflow: hidden;
-}
-.cid-rkcnPZyTDX .card-front img {
-  height: 100%;
-  min-width: 100%;
-  width: auto;
-}
-.cid-rkcnPZyTDX .card_back {
-  width: 100%;
-  height: 100%;
-  padding: 30px 30px;
-  color: #ffffff;
-  background-color: #000000;
-  z-index: 1;
-  margin: 0;
-  text-align: center;
-  overflow: hidden;
-  -o-transform: rotateX(-180deg);
-  -ms-transform: rotateX(-180deg);
-  -moz-transform: rotateX(-180deg);
-  -webkit-transform: rotateX(-180deg);
-  transform: rotateX(-180deg);
-}
-.cid-rkcnPZyTDX .card {
-  min-height: 300px;
-}
-.cid-rkcnPZyTDX .card:hover .card-front {
-  z-index: 1;
-  -o-transform: rotateX(180deg);
-  -ms-transform: rotateX(180deg);
-  -moz-transform: rotateX(180deg);
-  -webkit-transform: rotateX(180deg);
-  transform: rotateX(180deg);
-}
-.cid-rkcnPZyTDX .card:hover .card_back {
-  z-index: 2;
-  -o-transform: rotateX(0deg);
-  -ms-transform: rotateX(0deg);
-  -moz-transform: rotateX(0deg);
-  -webkit-transform: rotateX(0deg);
-  transform: rotateX(0deg);
-}
-.cid-rkcnPZyTDX .builderCard .card_back {
-  border-bottom-left-radius: 100px;
-}
-.cid-rkcnPZyTDX .builderCard .card_cont {
-  -o-backface-visibility: hidden;
-  -ms-backface-visibility: hidd;
-  -moz-backface-visibility: visible;
-  -webkit-backface-visibility: visible;
-  backface-visibility: visible;
-}
-.cid-rkcnPZyTDX .mbr-section-title {
-  text-align: left;
-  color: #e4d295;
-}
-.cid-rkcnPZyTDX P {
-  text-align: left;
-}
 .cid-rkcl7cheAZ {
   padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/drips-1-2000x1466.png");
 }
 .cid-rkcl7cheAZ .title {
   margin-bottom: 2rem;
@@ -2517,4 +2418,7 @@ body {
 .cid-rkcl7cheAZ .input-group-btn {
   display: block;
   text-align: center;
+}
+.cid-rkcl7cheAZ H2 {
+  color: #ffffff;
 }
