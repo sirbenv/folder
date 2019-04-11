@@ -1798,6 +1798,27 @@ body {
     width: 100% !important;
   }
 }
+.cid-rnnaZVAhQs {
+  background: #cccccc;
+  padding-top: 30px;
+  padding-bottom: 0px;
+}
+.cid-rnnaZVAhQs .image-block {
+  margin: auto;
+}
+.cid-rnnaZVAhQs figcaption {
+  position: relative;
+}
+.cid-rnnaZVAhQs figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rnnaZVAhQs .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rmsdA3CZRY {
   background: #cccccc;
   padding-top: 30px;
